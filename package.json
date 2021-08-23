@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "version": "",
+  "description": "Apollo GraphQL integrated in Azure Function.",
+  "keywords": [
+    "azure",
+    "azure-functions",
+    "graphql",
+    "apollo-server",
+    "serverless"
+  ],
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "apollo-server-azure-functions": "^3.1.2",
+    "graphql": "^15.5.1"
+  }
+}
